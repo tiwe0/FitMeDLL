@@ -66,7 +66,7 @@ PlotS
 
 1. 在文件`FitMeHelper.h`中添加新拟合算法签名
 2. 在文件`FitMeHelper.h`中定义对应该拟合算法的`FitMethod`枚举值
-3. 在`FitMeHelper.cpp`中实现该拟合算法定义
+3. 在文件`FitMeHelper.cpp`中实现该拟合算法定义
 4. 在文件`FitMeHelper.cpp`中的`toMehodEnum`中添加拟合算法
 5. 在文件`FitMeHelper.cpp`中的`Fit`中添加拟合算法
 6. 编译：生成->生成解决方案
