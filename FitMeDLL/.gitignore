@@ -1,0 +1,9 @@
+# vs
+.vs/
+
+# vcpkg
+vcpkg_install/
+
+/vcpkg_installed
+/FitMeDLL
+/ARM64/Release
