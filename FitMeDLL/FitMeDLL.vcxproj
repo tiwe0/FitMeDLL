@@ -102,7 +102,7 @@
     <LibraryPath>C:\Program Files\Matplot++ 1.2.0\lib\Matplot++;C:\Program Files\Matplot++ 1.2.0\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>C:\Users\ivory\Desktop\FitMeDLL\FitMeDLL;$(IncludePath)</IncludePath>
+    <IncludePath>..\FitMeDLL;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Label="Vcpkg">
     <VcpkgEnableManifest>true</VcpkgEnableManifest>
